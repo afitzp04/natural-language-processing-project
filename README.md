@@ -1,2 +1,2 @@
 # natural-language-processing-project
-Natural language processing project applying text preprocessing, feature extraction, and machine learning models for automated text classification.
+Project applying text processing and machine learning techniques to analyse and classify literary text extracts.
